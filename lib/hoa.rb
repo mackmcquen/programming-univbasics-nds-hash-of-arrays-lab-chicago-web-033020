@@ -9,4 +9,5 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   :third_earthers[3] = "Snarf"
+  :jetsons[3] = "Snarf"
 end
